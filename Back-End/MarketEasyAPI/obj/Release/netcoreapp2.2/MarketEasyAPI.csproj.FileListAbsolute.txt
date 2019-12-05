@@ -1,0 +1,13 @@
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\bin\Release\netcoreapp2.2\MarketEasyAPI.deps.json
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\bin\Release\netcoreapp2.2\MarketEasyAPI.runtimeconfig.json
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\bin\Release\netcoreapp2.2\MarketEasyAPI.runtimeconfig.dev.json
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\bin\Release\netcoreapp2.2\MarketEasyAPI.dll
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\bin\Release\netcoreapp2.2\MarketEasyAPI.pdb
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.csproj.CoreCompileInputs.cache
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.RazorAssemblyInfo.cache
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.RazorAssemblyInfo.cs
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.AssemblyInfoInputs.cache
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.AssemblyInfo.cs
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.RazorTargetAssemblyInfo.cache
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.dll
+D:\Nueva_carpeta\Diplomado\MarketEasyAPI\MarketEasyAPI\obj\Release\netcoreapp2.2\MarketEasyAPI.pdb
