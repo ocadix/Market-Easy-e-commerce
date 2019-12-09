@@ -1,14 +1,14 @@
-import { AppPage } from './app.po';
+import { Angular2StorePage } from './app.po';
 
-describe('workspace-project App', () => {
-  let page: AppPage;
+describe('angular2-store App', function() {
+  let page: Angular2StorePage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new Angular2StorePage();
   });
 
-  it('should display welcome message', () => {
+  it('should display message saying app works', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('Welcome to Market-Easy-e-commerce!');
+    expect(page.getParagraphText()).toEqual('app works!');
   });
 });
